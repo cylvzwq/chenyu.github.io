@@ -1,9 +1,9 @@
 # Chen Yu
-### Contacts:
+## Contacts:
 - E-mail:chenyu "at" amss "dot" ac "dot" cn
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
 
-### Employment and Experiences:
+## Employment and Experiences:
 - Postdoctoral Exchange Program: Purdue University, International, Advisor: Prof. **Li Peijun**, Sep 2019-July 2021.
 - Postdoctor: Beijing Normal University, Advisor: Prof. **Li Haigang**, Sep 2017-July 2019. 
 - Assistant Professor: Honghe University, July 2014-Sep 2012.
@@ -20,18 +20,18 @@
 - Critical points theories and Variational Methods
 ```
 
-### Education:
+## Education:
 
 - Ph.D.(June 2017— Sep 2014): Academy of Mathematics and Systems Science, Chinese Academy of Science, Advisor: Prof. **Ding Yanheng**.  
 - M.S.(June 2012— Sep 2009): Yunnan Normal University, Advisor: Prof. **Wu Xian**.
 - B.S.(June 2009— Sep 2005): Yunnan Normal University,
 
-### Fundings:
+## Fundings:
 I am funded by
 - NSF of China (11901036), 2020 – 2022.
 - CPSF (2018M631369), 2018 – 2019.
 
-### Publications and preprints:
+## Publications and preprints:
 
 - Chen Yu, Hao Xia, Xu Longjuan, Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary. (2021) submitted to _SIAM. J. Math. Anal._    
 
@@ -48,5 +48,14 @@ I am funded by
 - Chen Yu, Ding Yanheng, Li Suhong, Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671.  
 
 - Chen Yu, Wu Xian, Existence of nontrivial solutions and high energy solutions for a class of quasilinear Schrödinger equations via the dual-perturbation method. _Abs. Appl. Anal. (2013)_: 1-13.  
+
+## In process:
+
+- Chen Yu, Li Haigang, Li Peijun, Gradient estimates for solutions of Divergence form elliptic equations with piecewise discontinuous coefficients. In process.   
+
+- Chen Yu, Li Haigang, Li Peijun, Electromagnetic grating scattering by periodic structures with sign-change coefficients. In process.      
+
+
+
 
 
