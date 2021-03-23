@@ -4,9 +4,9 @@
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
 
 ## Employment and Experiences:
-- Postdoctoral Exchange Program: Purdue University, International, Advisor: Prof. **Li Peijun**, Sep 2019-July 2021.
-- Postdoctor: Beijing Normal University, Advisor: Prof. **Li Haigang**, Sep 2017-July 2019. 
-- Assistant Professor: Honghe University, July 2014-Sep 2012.
+- Postdoctoral Exchange Program: Purdue University, International, Advisor: Prof. **Li Peijun**, Sep 2019 - July 2021.  
+- Postdoctor: Beijing Normal University, Advisor: Prof. **Li Haigang**, Sep 2017 - July 2019.   
+- Assistant Professor: Honghe University, Sep 2012 - July 2014.  
 
 ## Research Interests:
 #### Partial Differential Equations and its Applications
