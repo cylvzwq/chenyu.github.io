@@ -1,5 +1,6 @@
 # Chen Yu
-- E-mail:chenyu@amss.ac.cn
+### Contact:
+- E-mail:chenyu "at" amss "dot" ac "dot" cn
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
 
 ### Employment and Experiences:
