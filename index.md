@@ -41,9 +41,9 @@ I am funded by
 
 - Chen Yu, Ding Yanheng, Xu Tian, Potential well and multiplicity of solutions for nonlinear Dirac equations. _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
 
-- Chen Yu, Ding Yanheng, Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Topol. Methods Nonlinear Anal._53 (2019): 183-224.   
+- Chen Yu, Ding Yanheng, Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Topol. Methods Nonlinear Anal. 53 (2019)_: 183-224.   
 
-- Li suhong, Li jiongyue, Chen Yu, On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. _J. Math. Phys. 59 (2018)_: 1-10.   
+- Li suhong, Li jiongyue, Chen Yu, On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. _J. Math. Phys. 59 (2018)_ : 1-10.   
 
 - Chen Yu, Ding Yanheng, Li Suhong, Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671.  
 
