@@ -10,7 +10,7 @@
 - Helmholtz Equations, Maxwell Equations
 - Composite Materials, Perfect Conductivity Problems, Lamé System
 - Kirchhoff Equations, Dirac Equations
-- ```
+```
 # Nonlinear Functional Analysis
 ```markdown
 - Critical points theories and Variational Methods
@@ -27,8 +27,8 @@
 
 ### Fundings
 I am funded by
-1. NSF of China (11901036), 2020 – 2022.
-2. CPSF (2018M631369), 2018 – 2019.
+- NSF of China (11901036), 2020 – 2022.
+- CPSF (2018M631369), 2018 – 2019.
 
 
 
