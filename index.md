@@ -1,31 +1,35 @@
-## Chen Yu
+# Chen Yu
 - E-mail:chenyu@amss.ac.cn
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
 
+### Employment and Experiences:
+- Postdoctoral Exchange Program: Purdue University, International, Advisor: Prof. **Li Peijun**, Sep 2019-July 2021.
+- Postdoctor: Beijing Normal University, Advisor: Prof. **Li Haigang**, Sep 2017-July 2019. 
+- Assistant Professor: Honghe University, July 2014— Sep 2012.
 
 
-### Research Interests:
-# Partial Differential Equations and its Applications
+## Research Interests:
+#### Partial Differential Equations and its Applications
 ```markdown
 - Helmholtz Equations, Maxwell Equations
 - Composite Materials, Perfect Conductivity Problems, Lamé System
 - Kirchhoff Equations, Dirac Equations
 ```
-# Nonlinear Functional Analysis
+#### Nonlinear Functional Analysis
 ```markdown
 - Critical points theories and Variational Methods
 ```
 
 
-### Education
+### Education:
 
-- Ph.D.(June 2017— Sep 2014): Academy of Mathematics and Systems Science, Chinese Academy of Science, Advisor: Prof. Ding Yanheng.  
-- M.S.(June 2012— Sep 2009): Yunnan Normal University, Advisor: Prof. Wu Xian.
+- Ph.D.(June 2017— Sep 2014): Academy of Mathematics and Systems Science, Chinese Academy of Science, Advisor: Prof. **Ding Yanheng**.  
+- M.S.(June 2012— Sep 2009): Yunnan Normal University, Advisor: Prof. **Wu Xian**.
 - B.S.(June 2009— Sep 2005): Yunnan Normal University,
 
 
 
-### Fundings
+### Fundings:
 I am funded by
 - NSF of China (11901036), 2020 – 2022.
 - CPSF (2018M631369), 2018 – 2019.
