@@ -35,9 +35,9 @@ I am funded by
 
 - Chen Yu, Hao Xia, Xu Longjuan, Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary. (2021) submitted.    
 
-- Chen Yu, Li Haigang, Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity. appear soon in _J. Functional Analysis. (2021)_. See [links](https://arxiv.org/pdf/1912.06238.pdf).  
+- Chen Yu, Li Haigang, Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity. appear soon in _J. Functional Analysis. (2021)_. [links](https://arxiv.org/pdf/1912.06238.pdf).  
 
-- Chen Yu, Li Haigang, Xu Longjuan, The optimal gradient estimates for Perfect Conductivity problem with C^{1, \alpha} inclusions. _Ann. Inst. H. Poincaré Anal. non linéaire.(2020)_. See [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
+- Chen Yu, Li Haigang, Xu Longjuan, The optimal gradient estimates for Perfect Conductivity problem with C^{1, \alpha} inclusions. _Ann. Inst. H. Poincaré Anal. non linéaire.(2020)_. [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
 
 - Chen Yu, Ding Yanheng, Xu Tian, Potential well and multiplicity of solutions for nonlinear Dirac equations. _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
 
