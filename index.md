@@ -44,7 +44,7 @@ I am funded by
 - Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. (with Ding Yanheng)   
   _Topol. Methods Nonlinear Anal. 53 (2019)_: 183-224.   
 
-- On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. (with Li suhong, Li jiongyue)    
+- On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. (with Li Suhong, Li Jiongyue)    
   _J. Math. Phys. 59 (2018)_ : 1-10.   
 
 - Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. (with Ding Yanheng, Li Suhong)   
