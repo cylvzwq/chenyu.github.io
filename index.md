@@ -29,21 +29,21 @@ I am funded by
 
 ## Publications and preprints:
 
-- Chen Yu, Hao Xia, Xu Longjuan, Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary. (2021) submitted.[links](CHX-boundary-inclusions-20210105.pdf).    
+- Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary.[links](CHX-boundary-inclusions-20210105.pdf).（with Hao Xia, Xu Longjuan)  submitted (2021).    
 
-- Chen Yu, Li Haigang, Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity. appear soon in _J. Functional Analysis. (2021)_. [links](https://arxiv.org/pdf/1912.06238.pdf).  
+- Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity.[links](https://arxiv.org/pdf/1912.06238.pdf).(with Li Haigang)     appear soon in _J. Functional Analysis. (2021)_.  
 
-- Chen Yu, Li Haigang, Xu Longjuan, The optimal gradient estimates for Perfect Conductivity problem with C^{1, \alpha} inclusions. _Ann. Inst. H. Poincaré Anal. non linéaire.(2020)_. [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
+- The optimal gradient estimates for Perfect Conductivity problem with C^{1, \alpha} inclusions. [links](https://doi.org/10.1016/j.anihpc.2020.09.009).(with Li Haigang, Xu Longjuan)    _Ann. Inst. H. Poincaré Anal. non linéaire.(2020)_.   
 
-- Chen Yu, Ding Yanheng, Xu Tian, Potential well and multiplicity of solutions for nonlinear Dirac equations. _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
+- Potential well and multiplicity of solutions for nonlinear Dirac equations.(with Ding Yanheng, Xu Tian)   _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
 
-- Chen Yu, Ding Yanheng, Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Topol. Methods Nonlinear Anal. 53 (2019)_: 183-224.   
+- Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential.(with Ding Yanheng)   _Topol. Methods Nonlinear Anal. 53 (2019)_: 183-224.   
 
-- Li suhong, Li jiongyue, Chen Yu, On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. _J. Math. Phys. 59 (2018)_ : 1-10.   
+- On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. (with Li suhong, Li jiongyue)    _J. Math. Phys. 59 (2018)_ : 1-10.   
 
-- Chen Yu, Ding Yanheng, Li Suhong, Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671.  
+- Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential.(with Ding Yanheng, Li Suhong)   _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671.  
 
-- Chen Yu, Wu Xian, Existence of nontrivial solutions and high energy solutions for a class of quasilinear Schrödinger equations via the dual-perturbation method. _Abs. Appl. Anal. (2013)_: 1-13.  
+- Existence of nontrivial solutions and high energy solutions for a class of quasilinear Schrödinger equations via the dual-perturbation method.(with Wu Xian)   _Abs. Appl. Anal. (2013)_: 1-13.  
 
 ## In process:
 
