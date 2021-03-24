@@ -1,4 +1,4 @@
-## Chen Yu
+# Chen Yu
 ## Contacts:
 - E-mail:chenyu "at" amss "dot" ac "dot" cn
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
@@ -9,15 +9,11 @@
 - Assistant Professor: Honghe University, Sep 2012 - July 2014.  
 
 ## Research Interests:
-#### Partial Differential Equations and its Applications
+#### Partial Differential Equations and its Applications, Nonlinear Functional Analysis, Critical points theories and Variational Methods  
 ```markdown
 - Helmholtz Equations, Maxwell Equations
 - Composite Materials, Perfect Conductivity Problems, Lamé System
 - Kirchhoff Equations, Dirac Equations
-```
-#### Nonlinear Functional Analysis
-```markdown
-- Critical points theories and Variational Methods
 ```
 
 ## Education:
