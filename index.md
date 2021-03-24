@@ -39,13 +39,13 @@ I am funded by
   _Ann. Inst. H. Poincaré Anal. Non Linéaire (2020)_, to appear, [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
 
 - Potential well and multiplicity of solutions for nonlinear Dirac equations. (with Ding Yanheng, Xu Tian)   
-  _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
+  _Commun. Pure Appl. Anal. 19 (2020)_: 587–607. [links]()   
 
 - Multiplicity and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. (with Ding Yanheng)   
   _Topol. Methods Nonlinear Anal. 53 (2019)_: 183-224.   
 
 - On concentration of positive ground states for the asymptotically linear fractional Schrödinger equation. (with Li Suhong, Li Jiongyue)    
-  _J. Math. Phys. 59 (2018)_ : 1-10.   
+  _J. Math. Phys. 59 (2018)_ : 1-10. [links](https://aip.scitation.org/doi/pdf/10.1063/1.5025268).  
 
 - Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. (with Ding Yanheng, Li Suhong)   
   _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671.  
