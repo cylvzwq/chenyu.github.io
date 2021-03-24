@@ -29,7 +29,7 @@ I am funded by
 
 ## Publications and preprints:
 
-- Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary.[links](CHX-boundary-inclusions-20210105.pdf). （with Hao Xia, Xu Longjuan)  
+- Upper and lower bounds for stress concentration in linear elasticity when <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions are close to boundary.[links](CHX-boundary-inclusions-20210105.pdf). （with Hao Xia, Xu Longjuan)  
   submitted (2021).    
 
 - Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity.[links](https://arxiv.org/pdf/1912.06238.pdf). (with Li Haigang)     
