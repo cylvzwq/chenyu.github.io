@@ -55,7 +55,7 @@ I am funded by
 
 - Chen Yu, Li Haigang, Li Peijun, Electromagnetic grating scattering by periodic structures with sign-change coefficients. In process.      
 
-
+- Chen Yu, Li Peijun, T- coercivity for Lam\'{e} system with sign-changing coefficients. In preparation.
 
 ```markdown
  Last updated on 202103
