@@ -29,14 +29,14 @@ I am funded by
 
 ## Publications and preprints:
 
-- Upper and lower bounds for stress concentration in linear elasticity when <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions are close to boundary. [links](CHX-boundary-inclusions-20210105.pdf). （with Hao Xia, Xu Longjuan)  
-  submitted (2021).    
+- Upper and lower bounds for stress concentration in linear elasticity when <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions are close to boundary. (with Hao Xia, Xu Longjuan)  
+  submitted (2021), [links](CHX-boundary-inclusions-20210105.pdf).    
 
-- Estimates and Asymptotics for the stress concentration between closely spaced stiff <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \gamma}" style="border:none;"> inclusions in linear elasticity. [links](https://arxiv.org/pdf/1912.06238.pdf). (with Li Haigang)     
-  _J. Functional Analysis (2021)_, to appear.  
+- Estimates and Asymptotics for the stress concentration between closely spaced stiff <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \gamma}" style="border:none;"> inclusions in linear elasticity. (with Li Haigang)     
+  _J. Functional Analysis (2021)_, to appear, [links](https://arxiv.org/pdf/1912.06238.pdf).  
 
-- The optimal gradient estimates for Perfect Conductivity problem with <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions. [links](https://doi.org/10.1016/j.anihpc.2020.09.009). (with Li Haigang, Xu Longjuan)    
-  _Ann. Inst. H. Poincaré Anal. Non Linéaire (2020)_, to appear.   
+- The optimal gradient estimates for Perfect Conductivity problem with <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions. (with Li Haigang, Xu Longjuan)    
+  _Ann. Inst. H. Poincaré Anal. Non Linéaire (2020)_, to appear, [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
 
 - Potential well and multiplicity of solutions for nonlinear Dirac equations. (with Ding Yanheng, Xu Tian)   
   _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
