@@ -28,8 +28,8 @@
 
 ## Fundings:
 I am funded by
-- NSF of China (11901036), 2020 – 2022.
-- CPSF (2018M631369), 2018 – 2019.
+- National Natural Science Fund of China (No.11901036), 2020 – 2022.
+- Postdoctoral Science Fund of China (No.2018M631369), 2018 – 2021.
 
 ## Publications and preprints:
 
