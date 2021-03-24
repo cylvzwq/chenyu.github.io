@@ -55,7 +55,7 @@ I am funded by
 
 ## In process:
 
-- Gradient estimates for solutions of Divergence form elliptic equations with piecewise discontinuous coefficients. (with Li Haigang, Li Peijun)In process.   
+- Gradient estimates for solutions of Divergence form elliptic equations with piecewise discontinuous coefficients. (with Li Haigang, Li Peijun) In process.   
 
 - Electromagnetic grating scattering by periodic structures with sign-change coefficients. (with Li Haigang, Li Peijun) In process.      
 
