@@ -33,7 +33,7 @@ I am funded by
 
 ## Publications and preprints:
 
-- Chen Yu, Hao Xia, Xu Longjuan, Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary. (2021) submitted.    
+- Chen Yu, Hao Xia, Xu Longjuan, Upper and lower bounds for stress concentration in linear elasticity when C^{1, \alpha} inclusions are close to boundary. (2021) submitted.[links](CHX-boundary-inclusions-20210105.pdf).    
 
 - Chen Yu, Li Haigang, Estimates and Asymptotics for the stress concentration between closely spaced stiff C^{1, \gamma} inclusions in linear elasticity. appear soon in _J. Functional Analysis. (2021)_. [links](https://arxiv.org/pdf/1912.06238.pdf).  
 
