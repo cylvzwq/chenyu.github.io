@@ -48,10 +48,10 @@ I am funded by
   _J. Math. Phys. 59 (2018)_ : 1-10. [links](https://aip.scitation.org/doi/pdf/10.1063/1.5025268).  
 
 - Existence and Concentration for Kirchhoff Type Equations around Topologically Critical points of the Potential. (with Ding Yanheng, Li Suhong)   
-  _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671. [links]() 
+  _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671. [links](chen-ding-li-2017.pdf) 
 
 - Existence of nontrivial solutions and high energy solutions for a class of quasilinear Schrödinger equations via the dual-perturbation method. (with Wu Xian)   
-   _Abs. Appl. Anal. (2013)_: 1-13.  
+   _Abs. Appl. Anal. (2013)_: 1-13.   
 
 ## In process:
 
