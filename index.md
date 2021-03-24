@@ -51,7 +51,7 @@ I am funded by
   _Commun. Pure Appl. Anal. 16 (2017)_: 1641-1671. [links](chen-ding-li-2017.pdf) 
 
 - Existence of nontrivial solutions and high energy solutions for a class of quasilinear Schrödinger equations via the dual-perturbation method. (with Wu Xian)   
-   _Abs. Appl. Anal. (2013)_: 1-13.   
+   _Abs. Appl. Anal. (2013)_: 1-13. [links](https://downloads.hindawi.com/journals/aaa/2013/256324.pdf)   
 
 ## In process:
 
