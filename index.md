@@ -35,7 +35,7 @@ I am funded by
   appear soon in _J. Functional Analysis. (2021)_.  
 
 - The optimal gradient estimates for Perfect Conductivity problem with C^{1, \alpha} inclusions. [links](https://doi.org/10.1016/j.anihpc.2020.09.009).(with Li Haigang, Xu Longjuan)    
-  _Ann. Inst. H. Poincaré Anal. non linéaire.(2020)_.   
+  _Ann. Inst. H. Poincaré Anal. Non Linéaire.(2020)_.   
 
 - Potential well and multiplicity of solutions for nonlinear Dirac equations.(with Ding Yanheng, Xu Tian)   
   _Commun. Pure Appl. Anal. 19 (2020)_: 587–607.    
