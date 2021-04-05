@@ -1,11 +1,11 @@
-# Chen Yu
+# Chen, Yu
 ## Contacts:
 - E-mail:chenyu "at" amss "dot" ac "dot" cn
 - Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
 
 ## Employment and Experiences:
-- International Postdoctoral Exchange Program: Purdue University, Advisor: Prof. [**Li Peijun**](https://www.math.purdue.edu/~lipeijun/), Sep 2019 - July 2021.  
-- Postdoctor: Beijing Normal University, Advisor: Prof. [**Li Haigang**](http://math0.bnu.edu.cn/~hgli/), Sep 2017 - July 2019.   
+- International Postdoctoral Exchange Program: Purdue University, Advisor: Prof. [**Li, Peijun**](https://www.math.purdue.edu/~lipeijun/), Sep 2019 - July 2021.  
+- Postdoctor: Beijing Normal University, Advisor: Prof. [**Li, Haigang**](http://math0.bnu.edu.cn/~hgli/), Sep 2017 - July 2019.   
 - Assistant Professor: Honghe University, Sep 2012 - July 2014.  
 
 ## Research Interests:
@@ -18,8 +18,8 @@
 
 ## Education:
 
-- Ph.D.(June 2017— Sep 2014): Academy of Mathematics and Systems Science, Chinese Academy of Science, Advisor: Prof. **Ding Yanheng**.  
-- M.S.(June 2012— Sep 2009): Yunnan Normal University, Advisor: Prof. **Wu Xian**.
+- Ph.D.(June 2017— Sep 2014): Academy of Mathematics and Systems Science, Chinese Academy of Science, Advisor: Prof. **Ding, Yanheng**.  
+- M.S.(June 2012— Sep 2009): Yunnan Normal University, Advisor: Prof. **Wu, Xian**.
 - B.S.(June 2009— Sep 2005): Yunnan Normal University,
 
 ## Fundings:
