@@ -33,7 +33,7 @@ I am funded by
   submitted (2021), [links](CHX-boundary-inclusions-20210105.pdf).    
 
 - Estimates and Asymptotics for the stress concentration between closely spaced stiff <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \gamma}" style="border:none;"> inclusions in linear elasticity. (with Li, Haigang)     
-  _J. Functional Analysis (2021)_, to appear, [links](https://arxiv.org/pdf/1912.06238.pdf).  
+  _J. Functional Analysis (2021)_, to appear, [links](https://doi.org/10.1016/j.jfa.2021.109038).  
 
 - Optimal gradient estimates for Perfect Conductivity problem with <img src="http://chart.googleapis.com/chart?cht=tx&chl=C^{1, \alpha}" style="border:none;"> inclusions. (with Li, Haigang; Xu, Longjuan)    
   _Ann. Inst. H. Poincaré Anal. Non Linéaire (2020)_, to appear, [links](https://doi.org/10.1016/j.anihpc.2020.09.009).   
