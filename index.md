@@ -1,7 +1,7 @@
 # Chen, Yu
 ## Contacts:
 - E-mail:chenyu "at" amss "dot" ac "dot" cn
-- Working address(current): Math science building 403, Purdue University, Indiana, 47907, USA.  
+- Mail address: Math science building 403, Purdue University, Indiana, 47907, USA.  
 
 ## Employment and Experiences:
 - International Postdoctoral Exchange Program: Purdue University, Advisor: Prof. [**Li, Peijun**](https://www.math.purdue.edu/~lipeijun/), Sep 2019 - July 2021.  
